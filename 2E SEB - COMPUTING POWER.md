@@ -4,7 +4,7 @@
 ---
 
 ### AIM  
-To write a Python program to compute the power of a given number using an appropriate built-in function.
+Write a python program to find the power of the given value.
 
 ---
 
@@ -22,7 +22,16 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+a=int(input())
+b=int(input())
+
+c=a**b
+print(c)
 ```
 ### OUTPUT
 
+64
+
 ### RESULT
+
+<img width="343" height="233" alt="image" src="https://github.com/user-attachments/assets/a373dd38-cfdf-4691-b02c-f1a7fda087b6" />
