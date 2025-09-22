@@ -1,8 +1,8 @@
 # Exp.No:2b  
-## FUNCTIONS - PERFECT NUMBER
+## FUNCTIONS - SQUARE NUMBER
 
 ### AIM  
-To write a Python program to check if a number is a Perfect number using the concept of functions.
+Write a Python function to create and print a list where the values are square of numbers between 1 and 30 (both included).
 
 ---
 
@@ -22,11 +22,22 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add your Code Here
+def printValues(num):
+	x=[]
+	for i in range(1,num+1):
+	    l=i**2
+	    x.append(l)
+	print(x)
+
+num=20		
+printValues(num)
 
 ```
 ### OUTPUT
 
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400]
+
+
 ### RESULT
+
+<img width="1128" height="141" alt="image" src="https://github.com/user-attachments/assets/0776947d-27af-4363-b907-266f99446824" />
