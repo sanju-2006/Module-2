@@ -4,7 +4,7 @@
 ---
 
 ### AIM  
-To write a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
+Write a lambda function which takes z as a parameter and returns z*45 using python
 
 ---
 
@@ -24,17 +24,23 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
+# Define the lambda function
+multiply_by_45 = lambda z: z * 45
 
+# Example usage
+result = multiply_by_45(int(input()))  # Example input
+print(result)  # Output will be 450
 ```
 
 ### OUTPUT
 
 ```
-
+225
 ```
 
 ### RESULT
 
 ```
+<img width="334" height="200" alt="image" src="https://github.com/user-attachments/assets/148cc6c6-ac86-4e9f-a864-735cfe292b54" />
 
 ```
