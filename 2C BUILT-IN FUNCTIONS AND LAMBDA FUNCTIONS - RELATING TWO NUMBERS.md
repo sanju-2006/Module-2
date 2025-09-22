@@ -34,13 +34,12 @@ print(result)  # Output will be 450
 
 ### OUTPUT
 
-```
 225
-```
+
 
 ### RESULT
 
-```
+
 <img width="334" height="200" alt="image" src="https://github.com/user-attachments/assets/148cc6c6-ac86-4e9f-a864-735cfe292b54" />
 
-```
+
