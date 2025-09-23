@@ -30,8 +30,8 @@ print(c)
 ```
 ### OUTPUT
 
-64
+<img width="343" height="233" alt="image" src="https://github.com/user-attachments/assets/a373dd38-cfdf-4691-b02c-f1a7fda087b6" />
 
 ### RESULT
 
-<img width="343" height="233" alt="image" src="https://github.com/user-attachments/assets/a373dd38-cfdf-4691-b02c-f1a7fda087b6" />
+python program to find the power of the given value is successfully verified
