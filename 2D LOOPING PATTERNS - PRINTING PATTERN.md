@@ -40,14 +40,9 @@ for i in range(size):
 
 ### OUTPUT
 
-           *
-           *  *
-          *  *  *
-         *  *  *  *
-        *  *  *  *  *
-       *  *  *  *  *  *
-      *  *  *  *  *  *  *
+<img width="975" height="724" alt="image" src="https://github.com/user-attachments/assets/429ebc1f-3c6c-453e-8d4b-7b6ef65a3754" />
+
       
 ### RESULT
 
-<img width="975" height="724" alt="image" src="https://github.com/user-attachments/assets/429ebc1f-3c6c-453e-8d4b-7b6ef65a3754" />
+Python program to print a triangular star pattern using loops is successfully verified
