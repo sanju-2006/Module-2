@@ -35,9 +35,9 @@ printValues(num)
 ```
 ### OUTPUT
 
-[1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400]
+<img width="1128" height="141" alt="image" src="https://github.com/user-attachments/assets/0776947d-27af-4363-b907-266f99446824" />
 
 
 ### RESULT
 
-<img width="1128" height="141" alt="image" src="https://github.com/user-attachments/assets/0776947d-27af-4363-b907-266f99446824" />
+Python function to create and print a list where the values are square of numbers between 1 and 30 (both included) is successfully verified
