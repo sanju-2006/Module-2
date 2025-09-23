@@ -36,17 +36,11 @@ print_range(M, N)
 ```
 ### OUTPUT
 
+<img width="355" height="595" alt="image" src="https://github.com/user-attachments/assets/50ca1b2f-22fa-46d6-b874-50ea8afebaaa" />
 
-10
-11
-12
-13
-14
-15
 
 
 ### RESULT
 
-<img width="355" height="595" alt="image" src="https://github.com/user-attachments/assets/50ca1b2f-22fa-46d6-b874-50ea8afebaaa" />
-
+Python Program to print numbers range from M to N (including M and N values) is successfully verified
 
