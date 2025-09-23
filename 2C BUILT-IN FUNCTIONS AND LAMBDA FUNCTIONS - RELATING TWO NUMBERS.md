@@ -34,12 +34,9 @@ print(result)  # Output will be 450
 
 ### OUTPUT
 
-225
+<img width="334" height="200" alt="image" src="https://github.com/user-attachments/assets/148cc6c6-ac86-4e9f-a864-735cfe292b54" />
 
 
 ### RESULT
 
-
-<img width="334" height="200" alt="image" src="https://github.com/user-attachments/assets/148cc6c6-ac86-4e9f-a864-735cfe292b54" />
-
-
+lambda function which takes z as a parameter and returns z*45 using python is successfully verified
